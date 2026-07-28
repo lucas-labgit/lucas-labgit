@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Rafael Lobo</h1>
+<h1 align="center">Olá 👋, eu sou Lucas Gabriel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Inteligência+Artificial;Apaixonado+por+Tecnologia;Focado+em+Dados+e+Desenvolvimento;Sempre+aprendendo+coisas+novas" />
