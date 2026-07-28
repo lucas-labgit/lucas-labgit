@@ -34,7 +34,6 @@
 
   <img src="https://skillicons.dev/icons?i=figma" />
   
-  <br>
   <!-- Power BI (manual porque não tem no skillicons) -->
   <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
 
