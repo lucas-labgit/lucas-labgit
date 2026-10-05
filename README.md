@@ -91,6 +91,7 @@ Projeto desenvolvido durante hackathon utilizando JavaScript.
 </picture>
 
 </div>
+
 ---
 
 ## 📫 Contato
