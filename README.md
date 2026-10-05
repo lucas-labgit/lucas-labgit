@@ -1,53 +1,145 @@
-<h1 align="center">Olá 👋, eu sou Lucas Gabriel</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Inteligência+Artificial;Apaixonado+por+Tecnologia;Focado+em+Dados+e+Desenvolvimento;Sempre+aprendendo+coisas+novas" />
-</p>
+# 👋 Olá, eu sou Lucas Gabriel
 
----
+### 💻 Desenvolvimento • 🤖 Inteligência Artificial • 📊 Dados
 
-### 🚀 Sobre mim
-- 🎓 Estudante de Inteligência Artificial - Faculdade Donaduzzi  
-- 💻 Focado em desenvolvimento, Front-end, Back-end e Análise de dados  
-- 📊 Explorando Power BI, Python e Engenharia de Dados  
-- ⚡ Gosto de esportes e desafios  
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Estudante+de+Intelig%C3%AAncia+Artificial;Desenvolvimento+Web+%26+Back-end;Python+%7C+JavaScript+%7C+SQL;Sempre+aprendendo+algo+novo+%F0%9F%9A%80"
+/>
+
+</div>
 
 ---
 
-### 🌐 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-gabriel-106022370/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-</p>
+## 🚀 Sobre mim
+
+🎓 Estudante de **Inteligência Artificial na Faculdade Donaduzzi**
+
+💻 Interesse em **Desenvolvimento Front-end, Back-end e Inteligência Artificial**
+
+📊 Explorando **Python, SQL, Power BI, Análise e Engenharia de Dados**
+
+🧠 Atualmente estudando **IA, Machine Learning e desenvolvimento de sistemas**
+
+🚀 Buscando evoluir através de projetos práticos e novas tecnologias
 
 ---
 
-### 🧠 Tech Stack
-<p align="left">
+## 🛠️ Tecnologias
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,react,js,git" />
+<div align="center">
 
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,mysql,git,github,vscode&theme=dark" />
 
-  <img src="https://skillicons.dev/icons?i=figma" />
-  
-  <!-- Power BI (manual porque não tem no skillicons) -->
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
+<br><br>
 
-</p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge">
+<img src="https://img.shields.io/badge/Data%20Analysis-3776AB?style=for-the-badge">
 
----
----
-
-### 💡 Atualmente estudando
-- Inteligência Artificial
-- Desenvolvimento de sistemas
-- Engenharia de Dados  
-- Análise de Dados  
-- Back-end com Python  
+</div>
 
 ---
 
-### 📫 Contato
-📧 lucas.gbr.teixeira@gmail.com
+## 🚀 Projetos em destaque
+
+### 👁️ Gate Vision
+
+Projeto envolvendo desenvolvimento e visão computacional.
+
+🔗 [Ver projeto](https://github.com/lucas-labgit/Gate_Vision)
+
+---
+
+### 📈 Séries Temporais + InfluxDB
+
+Projeto utilizando séries temporais e banco de dados InfluxDB.
+
+🔗 [Ver projeto](https://github.com/lucas-labgit/Trabalho-Final-Series-Temporais-InfluxDb)
+
+---
+
+### 💡 Hackathon
+
+Projeto desenvolvido durante hackathon utilizando JavaScript.
+
+🔗 [Ver projeto](https://github.com/lucas-labgit/Hackatonbpk)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=lucas-labgit&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-labgit&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=lucas-labgit&theme=dark&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="mailto:lucas.gbr.teixeira@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/lucas-labgit">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Transformando ideias em código."
+
+![Profile Views](https://komarev.com/ghpvc/?username=lucas-labgit&style=flat-square)
+
+</div>
