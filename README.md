@@ -53,14 +53,6 @@ Projeto envolvendo desenvolvimento e visão computacional.
 
 ---
 
-### 📈 Séries Temporais + InfluxDB
-
-Projeto utilizando séries temporais e banco de dados InfluxDB.
-
-🔗 [Ver projeto](https://github.com/lucas-labgit/Trabalho-Final-Series-Temporais-InfluxDb)
-
----
-
 ### 💡 Hackathon
 
 Projeto desenvolvido durante hackathon utilizando JavaScript.
