@@ -138,8 +138,3 @@ Projeto desenvolvido durante hackathon utilizando JavaScript.
 
 <div align="center">
 
-### 💡 "Transformando ideias em código."
-
-![Profile Views](https://komarev.com/ghpvc/?username=lucas-labgit&style=flat-square)
-
-</div>
