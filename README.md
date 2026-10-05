@@ -69,27 +69,28 @@ Projeto desenvolvido durante hackathon utilizando JavaScript.
 
 ---
 
-## 🐍 Minhas contribuições
+<h2 align="center">🐍 Minhas contribuições</h2>
 
 <div align="center">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-contribution-grid-snake-dark.svg"
   />
+
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-contribution-grid-snake.svg"
   />
+
   <img
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/lucas-labgit/lucas-labgit/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
 </div>
-
 ---
 
 ## 📫 Contato
