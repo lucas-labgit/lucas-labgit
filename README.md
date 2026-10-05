@@ -88,8 +88,6 @@ Projeto desenvolvido durante hackathon utilizando JavaScript.
 
 ## 📫 Contato
 
-## 📫 Contato
-
 <div align="center">
 
 <a href="mailto:lucas.gbr.teixeira@gmail.com">
