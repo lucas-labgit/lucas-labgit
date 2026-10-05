@@ -49,7 +49,7 @@
 
 Projeto envolvendo desenvolvimento e visão computacional.
 
-🔗 [Ver projeto](https://github.com/lucas-labgit/Gate_Vision)
+🔗 [Ver projeto](https://github.com/lucas-labgit/Gate-Vision.git)
 
 ---
 
